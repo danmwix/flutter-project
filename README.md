@@ -2,6 +2,9 @@
 
 A mobile application built to promote **inclusive, equitable, and quality education** — aligned with **Sustainable Development Goal 4 (SDG4)**.
 
+
+⚠️ Note: This app requires an active internet connection to function properly. Ensure your device is connected to the internet while using it.
+
 ---
 
 ## 🔗 Download the App
