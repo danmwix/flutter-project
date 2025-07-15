@@ -35,6 +35,7 @@ You can now download and experience the Quality Education Assurance App directly
 ### 🔐 Role-Based Access Control
 - During login, users select whether they are a **Student** or **Teacher**
 - The app redirects them to the appropriate dashboard based on their role
+- **Coming soon**: Additional roles like **Parents** and **Administrators** will be included in future releases to enhance communication and governance
 
 ---
 
@@ -85,6 +86,7 @@ By digitizing and simplifying access to educational tools for students and teach
 - 🔐 Biometric login for faster access
 - 📊 Dashboard analytics for performance tracking
 - 📨 Push notifications and reminders
+- 👨‍👩‍👧‍👦 Parent and Admin user roles with specific dashboards and permissions
 
 ---
 
