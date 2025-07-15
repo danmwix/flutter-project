@@ -1,43 +1,97 @@
-📌 Slide Title: Access the App
-Download the SDG4 Quality Education Assurance App
+# 📚 SDG4 Quality Education Assurance App
+
+A mobile application built to promote **inclusive, equitable, and quality education** — aligned with **Sustainable Development Goal 4 (SDG4)**.
+
+---
+
+## 🔗 Download the App
 
 You can now download and experience the Quality Education Assurance App directly on your Android device.
 
-🔗 Download APK:
-https://github.com/danmwix/flutter-project/releases/download/v1.0/app-release.apk
+**📥 [Download APK](https://github.com/danmwix/flutter-project/releases/download/v1.0/app-release.apk)**
 
-⚠️ To install the APK, enable "Install from unknown sources" in your device settings.
+⚠️ To install the APK, ensure you enable **"Install from unknown sources"** in your device settings.
 
-This application supports:
+---
 
-Course creation and management by teachers
+## 👥 User Roles and Features
 
-Assignment submission and feedback from students
+### 🔸 Students
+- Register by entering their **name**, **admission number**, and **password**
+- After successful registration, redirected to a personalized page
+- View courses they are currently enrolled in
+- Submit assignments, participate in discussions, and receive feedback
+- Forgot password? Enter **admission number** – an email verification is sent for password reset
 
-Announcements, notes, and quizzes shared in real-time
+### 🔹 Teachers
+- Register by entering their **name**, **admission number**, and **password**
+- After successful registration, redirected to a dashboard
+- Create and manage courses
+- Enroll students into courses
+- Post assignments, quizzes, announcements, and notes
+- Schedule class meetings (visible on student dashboards)
+- Forgot password? Enter **admission number** – an email verification is sent for password reset
 
-Interactive comments for class engagement
+### 🔐 Role-Based Access Control
+- During login, users select whether they are a **Student** or **Teacher**
+- The app redirects them to the appropriate dashboard based on their role
 
-Secure access and progress tracking
+---
 
-Built using Flutter and Agile methodology with a focus on SDG4 — Quality Education.
+## 🧩 Key Features
 
+- 📝 **Course Creation and Enrollment**
+- 📤 **Assignment Submission & Feedback**
+- 📣 **Announcements and Real-Time Notes**
+- 💬 **Interactive Class Comments**
+- 📅 **Meeting Scheduling**
+- 🔐 **Secure Multi-User Role Access**
+- 📈 **Progress Tracking**
 
-📖 Project Description (Slide)
-SDG4 Education App is a mobile application designed to ensure quality education assurance in digital learning environments. It allows:
+---
 
-Teachers to manage courses, post materials, and track student progress
+## 📖 Project Description
 
-Students to engage through submitting assignments, accessing notes, and participating in discussions
+The SDG4 Education App is a mobile-first solution to promote digital learning by offering:
+- A secure and accessible environment for teachers and students
+- Real-time interaction and learning content sharing
+- Structured course management and engagement tracking
 
-🛠️ Technology Stack (Slide)
-Flutter SDK for cross-platform mobile development
+---
 
-Dart as the programming language
+## 🛠️ Technology Stack
 
-Agile Scrum methodology for iterative and flexible development
+| Technology      | Purpose                                 |
+|-----------------|------------------------------------------|
+| **Flutter**     | Cross-platform mobile app development   |
+| **Dart**        | Programming language for Flutter         |
+| **Firebase**    | Authentication and backend (optional)    |
+| **Agile Scrum** | Development methodology                  |
+| **GitHub**      | Version control and APK distribution     |
 
-GitHub for code management and APK distribution
+---
 
-🎯 Impact and Goal (Slide)
-Aligned with Sustainable Development Goal 4 (SDG4): Ensure inclusive and equitable quality education and promote lifelong learning opportunities for all
+## 🎯 Goal and Impact
+
+This app directly supports:
+> **Sustainable Development Goal 4 (SDG4)**  
+> _"Ensure inclusive and equitable quality education and promote lifelong learning opportunities for all."_
+
+By digitizing and simplifying access to educational tools for students and teachers, the app contributes to building smarter and more inclusive learning communities.
+
+---
+
+## 💡 Future Improvements
+- 🔐 Biometric login for faster access
+- 📊 Dashboard analytics for performance tracking
+- 📨 Push notifications and reminders
+
+---
+
+## 🙌 Contributing
+
+Contributions and feedback are welcome!  
+Clone this project, open an issue, or submit a pull request to contribute.
+
+```bash
+git clone https://github.com/danmwix/flutter-project.git
