@@ -1,16 +1,43 @@
-# sdg4_education_app
+📌 Slide Title: Access the App
+Download the SDG4 Quality Education Assurance App
 
-A new Flutter project.
+You can now download and experience the Quality Education Assurance App directly on your Android device.
 
-## Getting Started
+🔗 Download APK:
+https://github.com/danmwix/flutter-project/releases/download/v1.0/app-release.apk
 
-This project is a starting point for a Flutter application.
+⚠️ To install the APK, enable "Install from unknown sources" in your device settings.
 
-A few resources to get you started if this is your first Flutter project:
+This application supports:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+Course creation and management by teachers
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Assignment submission and feedback from students
+
+Announcements, notes, and quizzes shared in real-time
+
+Interactive comments for class engagement
+
+Secure access and progress tracking
+
+Built using Flutter and Agile methodology with a focus on SDG4 — Quality Education.
+
+
+📖 Project Description (Slide)
+SDG4 Education App is a mobile application designed to ensure quality education assurance in digital learning environments. It allows:
+
+Teachers to manage courses, post materials, and track student progress
+
+Students to engage through submitting assignments, accessing notes, and participating in discussions
+
+🛠️ Technology Stack (Slide)
+Flutter SDK for cross-platform mobile development
+
+Dart as the programming language
+
+Agile Scrum methodology for iterative and flexible development
+
+GitHub for code management and APK distribution
+
+🎯 Impact and Goal (Slide)
+Aligned with Sustainable Development Goal 4 (SDG4): Ensure inclusive and equitable quality education and promote lifelong learning opportunities for all
