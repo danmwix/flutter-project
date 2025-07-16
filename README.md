@@ -7,7 +7,7 @@ A mobile application built to promote inclusive, equitable, and quality educatio
 You can now download and experience the Quality Education Assurance App directly on your Android device.
 
 📥 Download APK
-
+https://github.com/danmwix/flutter-project/releases/download/v1.0/app-release.apk
 
 ⚠️ To install the APK, ensure you enable "Install from unknown sources" in your device settings.
 
