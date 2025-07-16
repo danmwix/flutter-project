@@ -25,6 +25,8 @@ Submit assignments, participate in discussions, and receive feedback
 
 Forgot password? Enter admission number – an email verification is sent for password reset
 
+
+
 🔹 Teachers
 Register by entering their name, admission number, and password
 
@@ -40,12 +42,17 @@ Schedule class meetings (visible on student dashboards)
 
 Forgot password? Enter admission number – an email verification is sent for password reset
 
+
+
 🔐 Role-Based Access Control
 During login, users select whether they are a Student or Teacher
 
 The app redirects them to the appropriate dashboard based on their role
 
 Coming soon: Additional roles like Parents and Administrators will be included in future releases to enhance communication and governance
+
+
+
 
 🧩 Key Features
 📝 Course Creation and Enrollment
@@ -64,6 +71,9 @@ Coming soon: Additional roles like Parents and Administrators will be included i
 
 🌐 Internet Connectivity Required
 
+
+
+
 📖 Project Description
 The SDG4 Education App is a mobile-first solution to promote digital learning by offering:
 
@@ -73,9 +83,14 @@ Real-time interaction and learning content sharing
 
 Structured course management and engagement tracking
 
+
+
+
 💡 Limitation and Workaround:
 While Firebase provided an excellent backend service, one limitation experienced was the cost of Firebase Storage, which is required to enable file uploads. To keep the app accessible and free, a text-based approach was adopted.
 Teachers can paste notes, quizzes, and assignments directly into the app — avoiding the need for storage-based file uploads.
+
+
 
 🛠️ Technology Stack
 Technology	Purpose
@@ -85,6 +100,9 @@ Firebase	Authentication and backend (optional)
 Agile Scrum	Development methodology
 GitHub	Version control and APK distribution
 
+
+
+
 🎯 Goal and Impact
 This app directly supports:
 
@@ -92,6 +110,9 @@ Sustainable Development Goal 4 (SDG4)
 "Ensure inclusive and equitable quality education and promote lifelong learning opportunities for all."
 
 By digitizing and simplifying access to educational tools for students and teachers, the app contributes to building smarter and more inclusive learning communities.
+
+
+
 
 💡 Future Improvements
 🔐 Biometric login for faster access
@@ -101,6 +122,9 @@ By digitizing and simplifying access to educational tools for students and teach
 📨 Push notifications and reminders
 
 👨‍👩‍👧‍👦 Parent and Admin user roles with specific dashboards and permissions
+
+
+
 
 🙌 Contributing
 Contributions and feedback are welcome!
