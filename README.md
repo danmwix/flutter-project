@@ -91,14 +91,15 @@ While Firebase provided an excellent backend service, one limitation experienced
 Teachers can paste notes, quizzes, and assignments directly into the app — avoiding the need for storage-based file uploads.
 
 
-
 🛠️ Technology Stack
-Technology	Purpose
-Flutter	Cross-platform mobile app development
-Dart	Programming language for Flutter
-Firebase	Authentication and backend (optional)
-Agile Scrum	Development methodology
-GitHub	Version control and APK distribution
+| Technology      | Purpose                               |
+| --------------- | ------------------------------------- |
+| **Flutter**     | Cross-platform mobile app development |
+| **Dart**        | Programming language for Flutter      |
+| **Firebase**    | Authentication and backend (optional) |
+| **Agile Scrum** | Development methodology               |
+| **GitHub**      | Version control and APK distribution  |
+
 
 
 
@@ -130,3 +131,4 @@ By digitizing and simplifying access to educational tools for students and teach
 Contributions and feedback are welcome!
 Clone this project, open an issue, or submit a pull request to contribute:
 git clone https://github.com/danmwix/flutter-project.git
+
