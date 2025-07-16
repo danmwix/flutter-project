@@ -12,6 +12,8 @@ https://github.com/danmwix/flutter-project/releases/download/v1.0/app-release.ap
 ⚠️ To install the APK, ensure you enable "Install from unknown sources" in your device settings.
 
 👥 User Roles and Features
+
+
 🔸 Students
 Register by entering their name, admission number, and password
 
