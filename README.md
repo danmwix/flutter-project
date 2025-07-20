@@ -114,6 +114,23 @@ By digitizing and simplifying access to educational tools for students and teach
 
 
 
+🔓 Quick Tip: Joining a Meeting Without a Passcode
+If you’re joining a course meeting using a link, and it asks you for a meeting passcode, don’t worry — you don’t need to enter it manually.
+
+✅ Here’s what to do:
+When you see the "Enter Meeting Password" prompt 
+simply press the triangle-shaped button on your phone (🔺 circled below) — usually called the:
+
+Back button (on Android)
+
+Or "Return" / "Swipe Back" gesture depending on your phone brand (e.g. Infinix, Samsung, iPhone, etc.)
+
+Once you do that, the passcode prompt disappears, and you'll automatically join the meeting — as long as you clicked the correct link.
+
+
+
+
+
 
 💡 Future Improvements
 🔐 Biometric login for faster access
